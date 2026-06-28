@@ -1,36 +1,60 @@
-👋 Hi, I'm a Senior Software Engineer
+# Hi, I'm Abhishek 👋
 
-💻 Full-Stack Developer | Python Automation Expert | Data Engineering Specialist
-⚙️ Building scalable web apps, backend systems & automation tools for 15+ years
-🚀 Specialized in web scraping, API integration & enterprise software solutions
+🚀 Senior Software Engineer | Full-Stack Developer | Automation & Web Scraping Specialist  
+💡 15+ years of experience building scalable web applications, backend systems, and data automation solutions  
+⚙️ Focused on Java, Spring Boot, React, Python, and enterprise-grade automation systems  
 
-🔧 Tech Stack
+---
 
-Languages: Java, Python, C#, JavaScript, VB.NET
-Frontend: ReactJS, HTML, CSS
-Backend: Spring Boot, ASP.NET, Node.js, PHP
-Automation: Selenium, Scrapy, Excel VBA
-Databases: PostgreSQL, MySQL, MS SQL Server, Oracle
-Cloud & Tools: AWS, DigitalOcean, Linux, Postman, Git
+## 🔥 What I Do
 
-🚀 What I Build
-Full-stack web applications (enterprise-grade systems)
-Web scraping & data extraction pipelines
-API integration & backend services
-Automation tools for business workflows
-Data processing & ETL systems
-📌 Featured Projects
-🔹 Web Scraping Automation System
+- 🌐 Full-Stack Web Development (ReactJS, Java, .NET)
+- ⚙️ Backend Systems & APIs (Spring Boot, ASP.NET, REST APIs)
+- 🤖 Web Scraping & Automation (Python, Selenium, Scrapy)
+- 📊 Data Engineering & ETL Pipelines
+- 🧠 Enterprise Software Architecture & Optimization
 
-Python + Selenium + Scrapy based system for extracting structured data from complex e-commerce platforms.
+---
 
-🔹 Enterprise Full-Stack App
+## 🧰 Tech Stack
 
-ReactJS + Spring Boot + PostgreSQL application for scalable business workflows.
+**Languages:** Java, Python, JavaScript, C#, VB.NET  
+**Frontend:** ReactJS, HTML, CSS  
+**Backend:** Spring Boot, ASP.NET, Node.js, PHP  
+**Automation:** Selenium, Scrapy, Excel VBA  
+**Databases:** PostgreSQL, MySQL, MS SQL Server, Oracle  
+**Tools & Cloud:** AWS, DigitalOcean, Git, Postman, Linux  
 
-🔹 Legacy System Migration Tools
+---
 
-Tools for migrating VB.NET / ASP.NET systems into modern architectures.
+## 🚀 Featured Projects
 
-📫 Let's Connect
-💼 Open to freelance projects, remote work & consulting
+### 🔹 Web Scraping & Data Extraction Engine
+Python-based scalable scraping system using Selenium & Scrapy for extracting structured data from complex websites and e-commerce platforms.
+
+### 🔹 Enterprise API System
+Spring Boot REST API with authentication, database integration, and scalable backend architecture.
+
+### 🔹 Automation Toolkit
+Business automation utilities using Python and Excel VBA to reduce manual operations and improve efficiency.
+
+---
+
+## 📈 What I Focus On
+
+- Building scalable backend systems
+- Automating business workflows
+- Extracting and processing large-scale data
+- Designing clean and maintainable architectures
+
+---
+
+## 📫 Let's Connect
+
+💼 Open to freelance projects & remote opportunities  
+📧 Email: your-email-here  
+🔗 LinkedIn: your-linkedin-here  
+
+---
+
+⭐ Always building, learning, and improving.
