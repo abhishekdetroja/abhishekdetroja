@@ -52,8 +52,6 @@ Business automation utilities using Python and Excel VBA to reduce manual operat
 ## 📫 Let's Connect
 
 💼 Open to freelance projects & remote opportunities  
-📧 Email: your-email-here  
-🔗 LinkedIn: your-linkedin-here  
 
 ---
 
